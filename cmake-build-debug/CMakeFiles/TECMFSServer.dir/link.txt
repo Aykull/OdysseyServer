@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/TECMFSServer.dir/main.cpp.o CMakeFiles/TECMFSServer.dir/SimpleList/SimpleList.cpp.o  -o TECMFSServer 

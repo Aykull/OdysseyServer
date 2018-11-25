@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aykull/CLionProjects/TECMFSServer/main.cpp
+iostream
+-
+sys/socket.h
+-
+sys/types.h
+-
+netdb.h
+-
+string.h
+-
+string
+-
+pthread.h
+-
+vector
+-
+unistd.h
+-
+jsoncpp/json/json.h
+-
+stdio.h
+-
+stdlib.h
+-
+
