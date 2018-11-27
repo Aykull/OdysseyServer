@@ -84,6 +84,24 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/aykull/CLionProjects/TECMFSServer/Raid5/Existence_controller.cpp">
+			<Option target="TECMFSServer"/>
+		</Unit>
+		<Unit filename="/home/aykull/CLionProjects/TECMFSServer/Raid5/Existence_controller.h">
+			<Option target="TECMFSServer"/>
+		</Unit>
+		<Unit filename="/home/aykull/CLionProjects/TECMFSServer/Raid5/GOD_cotroller.cpp">
+			<Option target="TECMFSServer"/>
+		</Unit>
+		<Unit filename="/home/aykull/CLionProjects/TECMFSServer/Raid5/GOD_cotroller.h">
+			<Option target="TECMFSServer"/>
+		</Unit>
+		<Unit filename="/home/aykull/CLionProjects/TECMFSServer/Raid5/file_controller.cpp">
+			<Option target="TECMFSServer"/>
+		</Unit>
+		<Unit filename="/home/aykull/CLionProjects/TECMFSServer/Raid5/file_controller.h">
+			<Option target="TECMFSServer"/>
+		</Unit>
 		<Unit filename="/home/aykull/CLionProjects/TECMFSServer/SimpleList/SimpleList.cpp">
 			<Option target="TECMFSServer"/>
 		</Unit>

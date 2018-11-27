@@ -123,6 +123,87 @@ TECMFSServer/fast:
 	$(MAKE) -f CMakeFiles/TECMFSServer.dir/build.make CMakeFiles/TECMFSServer.dir/build
 .PHONY : TECMFSServer/fast
 
+Raid5/Existence_controller.o: Raid5/Existence_controller.cpp.o
+
+.PHONY : Raid5/Existence_controller.o
+
+# target to build an object file
+Raid5/Existence_controller.cpp.o:
+	$(MAKE) -f CMakeFiles/TECMFSServer.dir/build.make CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.o
+.PHONY : Raid5/Existence_controller.cpp.o
+
+Raid5/Existence_controller.i: Raid5/Existence_controller.cpp.i
+
+.PHONY : Raid5/Existence_controller.i
+
+# target to preprocess a source file
+Raid5/Existence_controller.cpp.i:
+	$(MAKE) -f CMakeFiles/TECMFSServer.dir/build.make CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.i
+.PHONY : Raid5/Existence_controller.cpp.i
+
+Raid5/Existence_controller.s: Raid5/Existence_controller.cpp.s
+
+.PHONY : Raid5/Existence_controller.s
+
+# target to generate assembly for a file
+Raid5/Existence_controller.cpp.s:
+	$(MAKE) -f CMakeFiles/TECMFSServer.dir/build.make CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.s
+.PHONY : Raid5/Existence_controller.cpp.s
+
+Raid5/GOD_cotroller.o: Raid5/GOD_cotroller.cpp.o
+
+.PHONY : Raid5/GOD_cotroller.o
+
+# target to build an object file
+Raid5/GOD_cotroller.cpp.o:
+	$(MAKE) -f CMakeFiles/TECMFSServer.dir/build.make CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.o
+.PHONY : Raid5/GOD_cotroller.cpp.o
+
+Raid5/GOD_cotroller.i: Raid5/GOD_cotroller.cpp.i
+
+.PHONY : Raid5/GOD_cotroller.i
+
+# target to preprocess a source file
+Raid5/GOD_cotroller.cpp.i:
+	$(MAKE) -f CMakeFiles/TECMFSServer.dir/build.make CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.i
+.PHONY : Raid5/GOD_cotroller.cpp.i
+
+Raid5/GOD_cotroller.s: Raid5/GOD_cotroller.cpp.s
+
+.PHONY : Raid5/GOD_cotroller.s
+
+# target to generate assembly for a file
+Raid5/GOD_cotroller.cpp.s:
+	$(MAKE) -f CMakeFiles/TECMFSServer.dir/build.make CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.s
+.PHONY : Raid5/GOD_cotroller.cpp.s
+
+Raid5/file_controller.o: Raid5/file_controller.cpp.o
+
+.PHONY : Raid5/file_controller.o
+
+# target to build an object file
+Raid5/file_controller.cpp.o:
+	$(MAKE) -f CMakeFiles/TECMFSServer.dir/build.make CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.o
+.PHONY : Raid5/file_controller.cpp.o
+
+Raid5/file_controller.i: Raid5/file_controller.cpp.i
+
+.PHONY : Raid5/file_controller.i
+
+# target to preprocess a source file
+Raid5/file_controller.cpp.i:
+	$(MAKE) -f CMakeFiles/TECMFSServer.dir/build.make CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.i
+.PHONY : Raid5/file_controller.cpp.i
+
+Raid5/file_controller.s: Raid5/file_controller.cpp.s
+
+.PHONY : Raid5/file_controller.s
+
+# target to generate assembly for a file
+Raid5/file_controller.cpp.s:
+	$(MAKE) -f CMakeFiles/TECMFSServer.dir/build.make CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.s
+.PHONY : Raid5/file_controller.cpp.s
+
 SimpleList/SimpleList.o: SimpleList/SimpleList.cpp.o
 
 .PHONY : SimpleList/SimpleList.o
@@ -186,6 +267,15 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... TECMFSServer"
+	@echo "... Raid5/Existence_controller.o"
+	@echo "... Raid5/Existence_controller.i"
+	@echo "... Raid5/Existence_controller.s"
+	@echo "... Raid5/GOD_cotroller.o"
+	@echo "... Raid5/GOD_cotroller.i"
+	@echo "... Raid5/GOD_cotroller.s"
+	@echo "... Raid5/file_controller.o"
+	@echo "... Raid5/file_controller.i"
+	@echo "... Raid5/file_controller.s"
 	@echo "... SimpleList/SimpleList.o"
 	@echo "... SimpleList/SimpleList.i"
 	@echo "... SimpleList/SimpleList.s"

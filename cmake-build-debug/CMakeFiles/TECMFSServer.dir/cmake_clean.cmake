@@ -1,6 +1,9 @@
 file(REMOVE_RECURSE
   "CMakeFiles/TECMFSServer.dir/main.cpp.o"
   "CMakeFiles/TECMFSServer.dir/SimpleList/SimpleList.cpp.o"
+  "CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.o"
+  "CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.o"
+  "CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.o"
   "TECMFSServer.pdb"
   "TECMFSServer"
 )

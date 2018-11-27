@@ -83,19 +83,64 @@ CMakeFiles/TECMFSServer.dir/SimpleList/SimpleList.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TECMFSServer.dir/SimpleList/SimpleList.cpp.s"
 	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aykull/CLionProjects/TECMFSServer/SimpleList/SimpleList.cpp -o CMakeFiles/TECMFSServer.dir/SimpleList/SimpleList.cpp.s
 
+CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.o: CMakeFiles/TECMFSServer.dir/flags.make
+CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.o: ../Raid5/Existence_controller.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aykull/CLionProjects/TECMFSServer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.o -c /home/aykull/CLionProjects/TECMFSServer/Raid5/Existence_controller.cpp
+
+CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aykull/CLionProjects/TECMFSServer/Raid5/Existence_controller.cpp > CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.i
+
+CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aykull/CLionProjects/TECMFSServer/Raid5/Existence_controller.cpp -o CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.s
+
+CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.o: CMakeFiles/TECMFSServer.dir/flags.make
+CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.o: ../Raid5/file_controller.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aykull/CLionProjects/TECMFSServer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.o -c /home/aykull/CLionProjects/TECMFSServer/Raid5/file_controller.cpp
+
+CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aykull/CLionProjects/TECMFSServer/Raid5/file_controller.cpp > CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.i
+
+CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aykull/CLionProjects/TECMFSServer/Raid5/file_controller.cpp -o CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.s
+
+CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.o: CMakeFiles/TECMFSServer.dir/flags.make
+CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.o: ../Raid5/GOD_cotroller.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/aykull/CLionProjects/TECMFSServer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.o -c /home/aykull/CLionProjects/TECMFSServer/Raid5/GOD_cotroller.cpp
+
+CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.i"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/aykull/CLionProjects/TECMFSServer/Raid5/GOD_cotroller.cpp > CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.i
+
+CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.s"
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/aykull/CLionProjects/TECMFSServer/Raid5/GOD_cotroller.cpp -o CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.s
+
 # Object files for target TECMFSServer
 TECMFSServer_OBJECTS = \
 "CMakeFiles/TECMFSServer.dir/main.cpp.o" \
-"CMakeFiles/TECMFSServer.dir/SimpleList/SimpleList.cpp.o"
+"CMakeFiles/TECMFSServer.dir/SimpleList/SimpleList.cpp.o" \
+"CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.o" \
+"CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.o" \
+"CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.o"
 
 # External object files for target TECMFSServer
 TECMFSServer_EXTERNAL_OBJECTS =
 
 TECMFSServer: CMakeFiles/TECMFSServer.dir/main.cpp.o
 TECMFSServer: CMakeFiles/TECMFSServer.dir/SimpleList/SimpleList.cpp.o
+TECMFSServer: CMakeFiles/TECMFSServer.dir/Raid5/Existence_controller.cpp.o
+TECMFSServer: CMakeFiles/TECMFSServer.dir/Raid5/file_controller.cpp.o
+TECMFSServer: CMakeFiles/TECMFSServer.dir/Raid5/GOD_cotroller.cpp.o
 TECMFSServer: CMakeFiles/TECMFSServer.dir/build.make
 TECMFSServer: CMakeFiles/TECMFSServer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aykull/CLionProjects/TECMFSServer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable TECMFSServer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/aykull/CLionProjects/TECMFSServer/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Linking CXX executable TECMFSServer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/TECMFSServer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

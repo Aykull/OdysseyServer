@@ -7,7 +7,6 @@
 #include <pthread.h>
 #include <vector>
 #include <unistd.h>
-
 #include <jsoncpp/json/json.h>
 #include <stdio.h>
 #include <stdlib.h>
@@ -377,10 +376,12 @@ void * serverRun(void *){
 }
 
 int main(int argc, char *argv[]) {
-    server = new SocketServer;
+    /*server = new SocketServer;
     serverRun(NULL);
 
-    delete server;
+    delete server;*/
+
+    
 
     return 0;
 }
